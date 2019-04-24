@@ -7,7 +7,7 @@ It's a global system, can by notify and attach callbacks from anywhere.
 
 # How to use
 ## First, create a new class. 
-* Each event has it's own class.
+* Each event has its own class.
 * The class contains a static manager and the actual event structure that you want to send through.
 ```javascript
 export class EventHpChanged {
@@ -37,5 +37,5 @@ export class EventHpChanged {
 
 
 # Other notes
-* you may use "detach" delte callbacks
+* you may use "detach" delete callbacks
 * Different callbacks is idntified by it's id parameter when attached.
