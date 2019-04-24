@@ -37,5 +37,5 @@ export class EventHpChanged {
 
 
 # Other notes
-* you may use "detach" delete callbacks
+* You may use "detach" delete callbacks
 * Different callbacks are idntified by their id parameters when attached.
